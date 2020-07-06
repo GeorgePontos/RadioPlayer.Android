@@ -6,7 +6,7 @@
 </a>
 </div>
 
-### <div align=center>Based on ExoPlayer. APK files also available on [Releases Page][1].</div>
+### <div align=center>APK files also available on [Releases Page][1].</div>
 
 ![avatar](https://raw.githubusercontent.com/cy8018/Resources/master/radio/snapshot/radio_promotion.png)
 ![avatar](https://raw.githubusercontent.com/cy8018/Resources/master/radio/snapshot/snapshot_android_radio_1.png)
